@@ -1,0 +1,15 @@
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/bin/Debug/net8.0/Entities.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/bin/Debug/net8.0/Core.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/bin/Debug/net8.0/Core.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.csproj.AssemblyReference.cache
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.csproj.Up2Date
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/Entities/obj/Debug/net8.0/ref/Entities.dll

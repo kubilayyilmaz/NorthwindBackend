@@ -1,0 +1,17 @@
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/Core.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/Entities.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/Core.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/bin/Debug/net8.0/Entities.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.csproj.Up2Date
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/kubilayyilmaz/Developer/NorthwindBackend/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
